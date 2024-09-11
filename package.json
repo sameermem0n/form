@@ -9,8 +9,8 @@
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-    "predeplay":"rpm run bulid",
-    "deplay":"gh-pages -d builds"
+    "predeploy": "rpm run bulid",
+    "deploy": "gh-pages -d builds"
   },
   "dependencies": {
     "react": "^18.3.1",
